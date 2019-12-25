@@ -1,8 +1,6 @@
 .model small
 .stack 100h
 .data
-    a dw 1234
-    ;b dq 123456789
 .code
 main proc
     
